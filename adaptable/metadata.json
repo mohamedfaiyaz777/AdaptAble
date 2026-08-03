@@ -1,0 +1,6 @@
+{
+  "name": "AdaptAble",
+  "description": "Adaptive workplace communication platform for Persons with Disabilities featuring AI speech coaching, workplace simulations, social stories, and enterprise accessibility.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
